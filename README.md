@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-🎓 I am a **4th year Computer Science student at the Polytechnic University of Timișoara**, with international experience through exchange semesters at the University of Stuttgart (Germany) and the University of Bremen (Germany). I am passionate about systems, robotics, and applied machine learning, and I enjoy building projects that combine software with real-world systems—from low-level hardware design to intelligent simulations.
+🎓 I am a **4th year Computer Science student at the Polytechnic University of Timișoara**, with international experience through exchange semesters at the University of Stuttgart (Germany) and the University of Bremen (Germany). 
+
+I am passionate about systems, robotics, and applied machine learning, and I enjoy building projects that combine software with real-world systems.
 
 ---
 
