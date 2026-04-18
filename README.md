@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I am a **4th year Computer Science student at the Polytechnic University of Timișoara**, with international experience through exchange semesters at the University of Stuttgart (Germany) and the University of Bremen (Germany). I am passionate about systems, robotics, and applied machine learning, and I enjoy building projects that combine software with real-world systems—from low-level hardware design to intelligent simulations.
+🎓 I am a **4th year Computer Science student at the Polytechnic University of Timișoara**, with international experience through exchange semesters at the University of Stuttgart (Germany) and the University of Bremen (Germany). I am passionate about systems, robotics, and applied machine learning, and I enjoy building projects that combine software with real-world systems—from low-level hardware design to intelligent simulations.
 
 ---
 
 ## 🚀 Projects
 
-### ✈️ Reinforcement Learning Flight Simulation (2026)
+### ✈️ Reinforcement Learning Flight Simulation 
 **Tech:** Python, Gymnasium, JSBSim, NumPy  
 - Built RL environments for autonomous aircraft landing  
 - Reduced training convergence time by ~35% via reward shaping  
@@ -14,7 +14,7 @@ I am a **4th year Computer Science student at the Polytechnic University of Timi
 
 ---
 
-### 🧠 Tiny RISC-V Processor Implementation (2025)
+### 🧠 Tiny RISC-V Processor Implementation 
 **Tech:** Verilog, RISC-V, Assembly  
 - Designed a 32-bit RV32I/M processor (ALU, decoder, memory interface)  
 - Built a custom assembler with virtual syscalls  
@@ -22,14 +22,14 @@ I am a **4th year Computer Science student at the Polytechnic University of Timi
 
 ---
 
-### 🌍 Procedural Terrain & Erosion Simulation (2025)
+### 🌍 Procedural Terrain & Erosion Simulation 
 **Tech:** Python, Rhino, Grasshopper  
 - Generated high-resolution 3D terrain using erosion algorithms  
 - Optimized meshes for digital fabrication and 3D printing  
 
 ---
 
-### 🤖 Underwater Robotics Project (2025)
+### 🤖 Underwater Robotics Project
 **Tech:** STM32, CAD, YOLO (Computer Vision)  
 - Developed embedded control system with sensor fusion  
 - Deployed YOLO model on edge hardware for marine detection  
@@ -43,6 +43,12 @@ I am a **4th year Computer Science student at the Polytechnic University of Timi
 - Focus on clean formatting and usability  
 
 ---
+
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
 <!--
 **darius1904/darius1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
